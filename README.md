@@ -1,2 +1,2 @@
 # kamykon-git-template
-Template for any kamykon project in git
+Template for any Kamykon® Git project
